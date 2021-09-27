@@ -5,4 +5,4 @@ About my self:
 - Study at Fschool
 
 You can contact me via:
-- Discord: PandaUwU#0001
+- Discord: PandaUwU#7779
