@@ -1,8 +1,9 @@
 # Hi I'm PandaKewt, welcome to my github
 About my self:
-- You can call me: Panda
-- 14 years old
-- Study at Fschool
+- A dude always yapping about his basement selfhost server
+- Not longer learning at FSchool
+- Learing at FPT Uni
+- Sometime can miss your DM because I fogor about that
 
 You can contact me via:
-- Discord: PandaUwU#7779
+- Discord: pandakewt
